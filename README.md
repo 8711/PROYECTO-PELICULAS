@@ -1,2 +1,2 @@
-# proyecto-tachy-02
+# PROYECTO - PELICULAS
 este es el codigo completo
